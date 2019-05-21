@@ -36,5 +36,9 @@ public class Kunde {
 		return "Kunde [kundenavn=" + kundenavn + ", adresse=" + adresse + ", telefon=" + telefon + "]";
 	}
 	
+	public void test() {
+		
+	}
+	
 	
 }
